@@ -15,7 +15,7 @@ const PRODUCTS = [
 ];
 
 const STORES = {
-  magnit: 'https://magnit.ru/search/?q=',
+  magnit: 'https://magnit.ru/search?term=',
   pyaterka: 'https://pyaterochka.ru/catalog/search?q=',
   lenta: 'https://lenta.com/search/?q=',
   krasbel: 'https://krasnoe-belyoe.ru/search/?q='
